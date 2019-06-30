@@ -105,7 +105,7 @@ app.use(function(req, res, next) {
   });
 });
 
-var porta = process.env.PORT_APP || 4200;
+var porta = process.env.PORT_APP || 21018;
 
 const server = app.listen(porta, () => {
   console.log(`Yupi! Portfolio are running in port ${server.address().port}`);
