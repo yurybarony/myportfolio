@@ -1,0 +1,692 @@
+{
+  "en": {
+    "lang": "en",
+    "langTitle": "English",
+    "title": "Welcome to word of Yury Barony",
+    "menu": {
+      "header": [{
+        "title": "About",
+        "href": "#about"
+      },
+      {
+        "title": "Skills",
+        "href": "#skills"
+      },
+      {
+        "title": "Companies and Depoiments",
+        "href": "#companies"
+      },
+      {
+        "title": "Timeline",
+        "href": "#timeline"
+      },
+      {
+        "title": "YULabs",
+        "href": "https://github.com/yurybarony"
+      },
+      {
+        "title": "Contacts",
+        "href": "https://api.whatsapp.com/send?phone=5531987380596"
+      }],
+      "footer": [{
+        "title": "About",
+        "href": "/#about"
+      },
+      {
+        "title": "Skills",
+        "href": "/#skills"
+      },
+      {
+        "title": "Companies and Depoiments",
+        "href": "/#companies"
+      },
+      {
+        "title": "Timeline",
+        "href": "/#timeline"
+      },
+      {
+        "title": "Contacts",
+        "href": "https://api.whatsapp.com/send?phone=5531987380596"
+      }]
+    },
+    "sections": {
+      "skills": "Skills Overview",
+      "companies": "Companies that are part of my life",
+      "timeline": "A little bit about my technological timeline"
+    },
+    "profiles": {
+      "greeting": "Hello, my name is",
+      "firstname": "Yury",
+      "lastname": "Barony",
+      "bio": "Im 28 years old, I graduated in Computer Science and Postgraduate in Project Management, I currently work in Gerencianet Payments as a full stack developer. I worked as Systems Analyst and freelancer web systems developer in Vale do Aço for more than 5 years and today I dedicate myself exclusively to my current job. I am passionate about technology and I like to solve problems that provide benefits and make life easier for thousands of people.",
+      "imgSrc": "yurybarony.jpg",
+      "urlVideo": "",
+      "textBtnVideo": "See my video resume"
+    },
+    "skills": {
+      "description": "With the passage of time we are acquiring new skills, even more we who are of the area of ​​IT, we must always be following the news and incorporating the good things for our day to day. I have selected some interesting and current ones that I am aware of."
+    },
+    "companies":[
+      {
+        "name": "Usiminas",
+        "imgSrc": "usiminas.png",
+        "href": "http://usiminas.com.br"
+      },
+      {
+        "name": "Brax Sistemas",
+        "imgSrc": "brax.png",
+        "href": ""
+      },
+      {
+        "name": "Instituto Prominas",
+        "imgSrc": "prominas.png",
+        "href": "http://grupoprominas.com.br"
+      },
+      {
+        "name": "Gerencianet Pagamentos do Brasil",
+        "imgSrc": "gerencianet.png",
+        "href": "https://gerencianet.com.br"
+      }
+    ],
+    "testmonials":[
+      {
+        "depoiment": "We work together in a company and from there to here, we do not stop working together on personal projects! Yury is a very dedicated professional, easy to learn and not at all resistant to knowing new languages. He always studies new technologies and passes to the team in a simple way, is extremely creative, manages to put beauty in frontend and backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Group Mult | Worked with me on Brax Systems",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      },
+      {
+        "depoiment": "We work together in a company and from there to here, we do not stop working together on personal projects! Yury is a very dedicated professional, easy to learn and not at all resistant to knowing new languages. He always studies new technologies and passes to the team in a simple way, is extremely creative, manages to put beauty in frontend and backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Group Mult | Worked with me on Brax Systems",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      },
+      {
+        "depoiment": "We work together in a company and from there to here, we do not stop working together on personal projects! Yury is a very dedicated professional, easy to learn and not at all resistant to knowing new languages. He always studies new technologies and passes to the team in a simple way, is extremely creative, manages to put beauty in frontend and backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Group Mult | Worked with me on Brax Systems",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      },
+      {
+        "depoiment": "We work together in a company and from there to here, we do not stop working together on personal projects! Yury is a very dedicated professional, easy to learn and not at all resistant to knowing new languages. He always studies new technologies and passes to the team in a simple way, is extremely creative, manages to put beauty in frontend and backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Group Mult | Worked with me on Brax Systems",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      }
+    ],
+    "timeline":[
+      {
+        "title": "The big bang",
+        "description": "My interest actually started on the web when I first met the Flash animated sites, this in mid-2004. Before that the sites were a bit bland.",
+        "year": "2004",
+        "imgSrc": "yurybarony-flash.png"
+      },
+      {
+        "title": "Creating layouts",
+        "description": "Soon after, I became interested in Fireworks that was of the Flash family, it enabled me to create images in a timely manner and to slice them into HTML.",
+        "year": "2004",
+        "imgSrc": "yurybarony-fireworks.png"
+      },
+      {
+        "title": "Html and css",
+        "description": "At this time we still used a lot of tag marqueee, it was the feel of the sites. Those beautiful phrases with effects, hyperlinks and tables. CSS was little known at the time. Thanks to the site Maujor for the tips!",
+        "year": "2004",
+        "imgSrc": "yurybarony-htmlcss.png"
+      },
+      {
+        "title": "Love at first sight",
+        "description": "I ended up getting to know PHP at the time through a friend, where we took a project from a website to develop together and from the first time she caught my attention with its includes, requires and etc.",
+        "year": "2006",
+        "imgSrc": "yurybarony-php.png"
+      },
+      {
+        "title": "Javascript and its conflicts",
+        "description": "The javascript at the time was a language widely used for forms validation and gave many conflicts, with the emergence of jQuery language took an interesting turn.",
+        "year": "2006",
+        "imgSrc": "yurybarony-js.png"
+      },
+      {
+        "title": "The HTML5 Revolution",
+        "description": "Flash was in decline and needed to improve on other technologies. Then I grabbed the power of PHP, JS and other plugins to be able to evolve in my learning.",
+        "year": "2010",
+        "imgSrc": "yurybarony-html5.png"
+      },
+      {
+        "title": "Zend Framework",
+        "description": "It was almost college finale and there I was unfolding Zend, its tools enchanted me and leaving powerful PHP with all that code abstraction.",
+        "year": "2011",
+        "imgSrc": "yurybarony-zend.png"
+      },
+      {
+        "title": "Angular JS",
+        "description": "The Angular JS came to optimize even more, where before we would need to use an extensive code in JS, with the Angular we could do something with much less effort and present it in the view. Almost like magic!",
+        "year": "2012",
+        "imgSrc": "yurybarony-angular.png"
+      },
+      {
+        "title": "Version control with SVN",
+        "description": "Before working with Git I knew about SVN, everything we developed was sent to production via FTP, and at this time I had the pleasure to know a little about this version driver. But nothing compares to Git!",
+        "year": "2012",
+        "imgSrc": "yurybarony-svn.png"
+      },
+      {
+        "title": "Ruby on Rails",
+        "description": "I had the opportunity to study and get to know a very interesting ORM framework that opened my mind to the ORM concept and the desire to study even more.",
+        "year": "2016",
+        "imgSrc": "yurybarony-rails.png"
+      },
+      {
+        "title": "Gitlab",
+        "description": "When I met Gitlab, I realized that he was organizing projects (codes) a lot, not to mention giving his pipeline, making unit testing and integration easier. Today for my personal projects I use Gitlab, Github and also Heroku.",
+        "year": "2017",
+        "imgSrc": "yurybarony-gitlab.png"
+      },
+      {
+        "title": "Node JS",
+        "description": "I knew Node JS out of curiosity when I heard about its multiprocesses and perform better with PHP. And today is my main language of work.",
+        "year": "2016",
+        "imgSrc": "yurybarony-nodejs.png"
+      },
+      {
+        "title": "Vagrant",
+        "description": "Excellent VM manager, use it to manage my virtual machines without having to open the Virtualbox interface.",
+        "year": "2018",
+        "imgSrc": "yurybarony-vagrant.png"
+      },
+      {
+        "title": "Docker",
+        "description": "Docker is something I've also been perfecting and managing my containers, it's much lighter than a full VM and response to commands much faster, and it also provides a more scalable, easy-to-maintain and update infrastructure.",
+        "year": "2018",
+        "imgSrc": "yurybarony-docker.png"
+      },
+      {
+        "title": "Microservices",
+        "description": "Microservices is a concept that I have been studying recently and trying to apply in some examples, so I will share more in Github with the community.",
+        "year": "2019",
+        "imgSrc": "yurybarony-microservices.png"
+      },
+      {
+        "title": "Hybrid Applications",
+        "description": "My intention now is to perfect the concept of hybrid applications in order to have React Native and Electron applications that work on both the Mobile, Desktop and Web platforms.",
+        "year": "2019",
+        "imgSrc": "yurybarony-reactnative.png"
+      }
+    ],
+    "timeline_section_text": "Life is marked by moments and below I listed the moments that marked me with regard to knowledge of new technologies, I will not mention all because otherwise it would be very tiring, but I will summarize and put those that I consider more relevant.",
+    "timeline_finish_text": "In the IT area we have to be mutants, and always look for new knowledge that optimizes our processes and tasks that were previously done in a more laborious way, so that timeline will never stop growing. :)",
+    "timeline_phrase_contact": {
+      "first": "Let's talk? I am available to exchange",
+      "second": "experiences."
+    },
+    "timeline_button_contact": {
+      "text": "Participate in a conversation with Yury",
+      "href": "https://api.whatsapp.com/send?phone=5531987380596"
+    }
+  },
+
+  "pt-br": {
+    "lang": "pt-br",
+    "langTitle": "Portuguese",
+    "title": "Bem vindo ao mundo de Yury Barony",
+    "menu": {
+      "header": [{
+        "title": "Sobre",
+        "href": "#about"
+      },
+      {
+        "title": "Conhecimentos",
+        "href": "#skills"
+      },
+      {
+        "title": "Companhias e depoimentos",
+        "href": "#companies"
+      },
+      {
+        "title": "Timeline",
+        "href": "#timeline"
+      },
+      {
+        "title": "YULabs",
+        "href": "https://github.com/yurybarony"
+      },
+      {
+        "title": "Contatos",
+        "href": "https://api.whatsapp.com/send?phone=5531987380596"
+      }],
+      "footer": [{
+        "title": "About",
+        "href": "#about"
+      },
+      {
+        "title": "Skills",
+        "href": "#skills"
+      },
+      {
+        "title": "Companies and Depoiments",
+        "href": "#companies"
+      },
+      {
+        "title": "Timeline",
+        "href": "#timeline"
+      },
+
+      {
+        "title": "Contacts",
+        "href": "https://api.whatsapp.com/send?phone=5531987380596"
+      }]
+    },
+    "sections": {
+      "skills": "Habilidades atuais",
+      "companies": "Empresas que fazem parte da minha vida",
+      "timeline": "Um pouco sobre minha evolução na TI"
+    },
+    "profiles":
+      {
+        "greeting": "Olá, meu nome é",
+        "firstname": "Yury",
+        "lastname": "Barony",
+        "bio": "Tenho 28 anos, sou formado em Ciência da Computação e sou pós-graduado em Gerenciamento de Projetos, atualmente trabalho na Gerencianet Pagamentos como desenvolvedor full stack. Trabalhei como analista de sistemas e desenvolvedor de sistemas web freelancer no Vale do Aço por mais de 5 anos e hoje dedico-me exclusivamente ao meu trabalho atual. Sou apaixonada por tecnologia e gosto de resolver problemas que proporcionam benefícios e facilitam a vida de milhares de pessoas.",
+        "imgSrc": "yurybarony.jpg",
+        "urlVideo": "",
+        "textBtnVideo": "Assista meu vídeo resumo"
+      },
+    "skills": {
+      "description": "Com o passar do tempo vamos adquirindo novas habilidades, ainda mais nós que somos da área de TI, temos sempre que estar acompanhando as novidades e incorporando as coisas boas para o nosso dia a dia. Selecionei algumas interessantes e atuais que tenho conhecimento."
+    },
+    "companies":[
+      {
+        "name": "Usiminas",
+        "imgSrc": "usiminas.png",
+        "href": "http://usiminas.com.br"
+      },
+      {
+        "name": "Brax Sistemas",
+        "imgSrc": "brax.png",
+        "href": ""
+      },
+      {
+        "name": "Instituto Prominas",
+        "imgSrc": "prominas.png",
+        "href": "http://grupoprominas.com.br"
+      },
+      {
+        "name": "Gerencianet Pagamentos do Brasil",
+        "imgSrc": "gerencianet.png",
+        "href": "https://gerencianet.com.br"
+      }
+    ],
+    "testmonials":[
+      {
+        "depoiment": "Trabalhamos juntos em uma empresa e de lá para cá, não paramos de trabalhar juntos em projetos pessoais! Yury é um profissional muito dedicado, tem facilidade de aprender e não é nem um pouco resistente em conhecer novas linguagens. Ele sempre estuda novas tecnologias e passa para a equipe de forma simples, é extremamente criativo, consegue colocar beleza em frontend e backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Grupo Mult | Trabalhou comigo na Brax Sistemas",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      },
+      {
+        "depoiment": "Trabalhamos juntos em uma empresa e de lá para cá, não paramos de trabalhar juntos em projetos pessoais! Yury é um profissional muito dedicado, tem facilidade de aprender e não é nem um pouco resistente em conhecer novas linguagens. Ele sempre estuda novas tecnologias e passa para a equipe de forma simples, é extremamente criativo, consegue colocar beleza em frontend e backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Grupo Mult | Trabalhou comigo na Brax Sistemas",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      },
+      {
+        "depoiment": "Trabalhamos juntos em uma empresa e de lá para cá, não paramos de trabalhar juntos em projetos pessoais! Yury é um profissional muito dedicado, tem facilidade de aprender e não é nem um pouco resistente em conhecer novas linguagens. Ele sempre estuda novas tecnologias e passa para a equipe de forma simples, é extremamente criativo, consegue colocar beleza em frontend e backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Grupo Mult | Trabalhou comigo na Brax Sistemas",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      },
+      {
+        "depoiment": "Trabalhamos juntos em uma empresa e de lá para cá, não paramos de trabalhar juntos em projetos pessoais! Yury é um profissional muito dedicado, tem facilidade de aprender e não é nem um pouco resistente em conhecer novas linguagens. Ele sempre estuda novas tecnologias e passa para a equipe de forma simples, é extremamente criativo, consegue colocar beleza em frontend e backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Grupo Mult | Trabalhou comigo na Brax Sistemas",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      }
+    ],
+    "timeline":[
+      {
+        "title": "O big bang",
+        "description": "Meu interesse começou de fato pela web quando conheci os sites animados em Flash, isto em meados de 2004. Antes disso os sites eram um pouco sem graça.",
+        "year": "2004",
+        "imgSrc": "yurybarony-flash.png"
+      },
+      {
+        "title": "Criando layouts",
+        "description": "Logo em seguida despertei o interesse pelo Fireworks que era da família do Flash, ele me possibilitou criar imagens em tempo hábil e fatiá-las em HTML.",
+        "year": "2004",
+        "imgSrc": "yurybarony-fireworks.png"
+      },
+      {
+        "title": "Html e css",
+        "description": "Nesta época ainda usavamos muito a tag marqueee, ela era a sensação dos sites. Aquelas lindas frases com efeitos, hiperlinks e tabelas. O CSS era algo pouco conhecido na época. Obrigado ao site Maujor pelas dicas!",
+        "year": "2004",
+        "imgSrc": "yurybarony-htmlcss.png"
+      },
+      {
+        "title": "Amor à primeira vista",
+        "description": "Acabei conhecendo o PHP na época através de um amigo, onde pegamos um projeto de um site para desenvolvermos juntos e desde a primeira vez ela me chamou muita atenção com seus includes, requires e etc.",
+        "year": "2006",
+        "imgSrc": "yurybarony-php.png"
+      },
+      {
+        "title": "Javascript e seus conflitos",
+        "description": "O javascript na época era uma linguagem usada bastante para validação de formulários e dava muitos conflitos, com o surgimento do jQuery a linguagem tomou um rumo interessante.",
+        "year": "2006",
+        "imgSrc": "yurybarony-js.png"
+      },
+      {
+        "title": "A revolução do HTML5",
+        "description": "O Flash entrava em decadência e precisava aprimorar as outras tecnologias. Ai me agarrei ao poder do PHP, JS e outros plugins para poder evoluir no meu aprendizado.",
+        "year": "2010",
+        "imgSrc": "yurybarony-html5.png"
+      },
+      {
+        "title": "Zend Framework",
+        "description": "Era quase final de faculdade e lá estava eu desbravando o Zend, suas ferramentas me encantavam e deixando o PHP poderoso com toda aquela abstração de códigos.",
+        "year": "2011",
+        "imgSrc": "yurybarony-zend.png"
+      },
+      {
+        "title": "Angular JS",
+        "description": "O Angular JS veio para otimizar ainda mais, onde antes precisaríamos de usar um código extenso em JS, com o Angular poderíamos fazer algo com bem menos esforço e apresentar isto na view. Quase como mágica!",
+        "year": "2012",
+        "imgSrc": "yurybarony-angular.png"
+      },
+      {
+        "title": "Controle de versão com SVN",
+        "description": "Antes de trabalhar com Git conheci o SVN, tudo que desenvolviamos era enviado para produção via FTP, e nesta época tive o prazer de conhecer um pouco deste controlador de versão. Mas nada se compara ao Git!",
+        "year": "2012",
+        "imgSrc": "yurybarony-svn.png"
+      },
+      {
+        "title": "Ruby on Rails",
+        "description": "Tive a oportunidade de estudar e conhecer um framework ORM bem interessante que me abriu a mente para o conceito de ORM e a vontade de estudar ainda mais.",
+        "year": "2016",
+        "imgSrc": "yurybarony-rails.png"
+      },
+      {
+        "title": "Gitlab",
+        "description": "Quando conheci o Gitlab percebi de cara que ele organizava muito os projetos (códigos), sem falar dar pipeline que possui, facilitando a implementação de testes unitários e de integração. Hoje para meus projetos pessoais uso o Gitlab, Github e também o Heroku.",
+        "year": "2017",
+        "imgSrc": "yurybarony-gitlab.png"
+      },
+      {
+        "title": "Node JS",
+        "description": "Eu conheci o Node JS por curiosidade ao ouvir falar sobre seus multiprocessos e ter um desempenho melhor. E hoje é a minha principal linguagem de trabalho.",
+        "year": "2016",
+        "imgSrc": "yurybarony-nodejs.png"
+      },
+      {
+        "title": "Vagrant",
+        "description": "Excelente gerenciador de VMs, uso ele para gerenciar minhas máquinas virtuais sem ter a necessidade de abrir a interface do Virtualbox.",
+        "year": "2018",
+        "imgSrc": "yurybarony-vagrant.png"
+      },
+      {
+        "title": "Docker",
+        "description": "Docker é algo que também venho aperfeiçoando e que gerencia os meus containers, ele é bem mais leve que uma VM completa e a resposta aos comandos muito mais rápida, além de possibilitar uma infraestrutura mais escalável e de fácil manutenção e atualização.",
+        "year": "2018",
+        "imgSrc": "yurybarony-docker.png"
+      },
+      {
+        "title": "Microserviços",
+        "description": "Microserviços é um conceito que venho estudando recentemente e tentando aplicar em alguns exemplos, logo mais irei compartilhar no Github com a comunidade.",
+        "year": "2019",
+        "imgSrc": "yurybarony-microservices.png"
+      },
+      {
+        "title": "Aplicações hibridas",
+        "description": "Meu intuito agora é aperfeiçoar o conceito de aplicações hibrídas, a fim de ter aplicações em React Native e Electron que funcionam em ambas as plataformas, Mobile, Desktop e Web.",
+        "year": "2019",
+        "imgSrc": "yurybarony-reactnative.png"
+      }
+    ],
+    "timeline_section_text": "A vida é marcada de momentos e abaixo listei os momentos que me marcaram com relação a conhecimento de novas tecnologias, não vou citar todas porque senão ficaria muito cansativo, mas vou resumir e colocar as que considero de mais relevância.",
+    "timeline_finish_text": "Na área de TI temos que ser mutantes, e sempre buscar novos conhecimentos que otimizem ainda mais nossos processos e tarefas que antes eram feitos de forma mais trabalhosa, por isso essa timeline nunca vai parar de crescer. :)",
+    "timeline_phrase_contact": {
+      "first": "Vamos conversar? Estou disponível para trocar",
+      "second": "experiências."
+    },
+    "timeline_button_contact": {
+      "text": "Participar de uma conversa com Yury",
+      "href": "https://api.whatsapp.com/send?phone=5531987380596"
+    }
+  },
+
+  "es": {
+    "lang": "es",
+    "langTitle": "Spanish",
+    "title": "Bienvenido al mundo de Yury Barony",
+    "menu": {
+      "header": [{
+        "title": "Acerca de",
+        "href": "#about"
+      },
+      {
+        "title": "Habilidades",
+        "href": "#skills"
+      },
+      {
+        "title": "Empresas y Depoimentos",
+        "href": "#companies"
+      },
+      {
+        "title": "Timeline",
+        "href": "#timeline"
+      },
+      {
+        "title": "YULabs",
+        "href": "https://github.com/yurybarony"
+      },
+      {
+        "title": "Contactos",
+        "href": "https://api.whatsapp.com/send?phone=5531987380596"
+      }],
+      "footer": [{
+        "title": "About",
+        "href": "#about"
+      },
+      {
+        "title": "Skills",
+        "href": "#skills"
+      },
+      {
+        "title": "Companies and Depoiments",
+        "href": "#companies"
+      },
+      {
+        "title": "Timeline",
+        "href": "#timeline"
+      },
+
+      {
+        "title": "Contacts",
+        "href": "https://api.whatsapp.com/send?phone=5531987380596"
+      }]
+    },
+    "sections": {
+      "skills": "Conocimientos actuales",
+      "companies": "Empresas que forman parte de mi vida",
+      "timeline": "Un poco sobre mi calendario tecnológico"
+    },
+    "profiles":
+      {
+        "greeting": "Hola, mi nombre es",
+        "firstname": "Yury",
+        "lastname": "Barony",
+        "bio": "Tengo 28 años, me gradué en Informática y posgrado en Gestión de proyectos, actualmente trabajo en Gerencianet Pagos como desarrollador de pila completa. Trabajé como analista de sistemas y desarrollador de sistemas web freelance en Vale do Aço durante más de 5 años y hoy me dedico exclusivamente a mi trabajo actual. Me apasiona la tecnología y me gusta resolver problemas que brindan beneficios y hacen la vida más fácil para miles de personas.",
+        "imgSrc": "yurybarony.jpg",
+        "urlVideo": "",
+        "textBtnVideo": "Ver mi curriculum vitae"
+      },
+    "skills": {
+      "description": "Con el paso del tiempo vamos adquiriendo nuevas habilidades, aún más nosotros que somos del área de TI, siempre tenemos que estar acompañando las novedades e incorporando las cosas buenas para nuestro día a día. He seleccionado algunos interesantes y actuales que tengo conocimiento."
+    },
+    "companies":[
+      {
+        "name": "Usiminas",
+        "imgSrc": "usiminas.png",
+        "href": "http://usiminas.com.br"
+      },
+      {
+        "name": "Brax Sistemas",
+        "imgSrc": "brax.png",
+        "href": ""
+      },
+      {
+        "name": "Instituto Prominas",
+        "imgSrc": "prominas.png",
+        "href": "http://grupoprominas.com.br"
+      },
+      {
+        "name": "Gerencianet Pagamentos do Brasil",
+        "imgSrc": "gerencianet.png",
+        "href": "https://gerencianet.com.br"
+      }
+    ],
+    "testmonials":[
+      {
+        "depoiment": "Trabajamos juntos en una empresa y de allá para allá, no dejamos de trabajar juntos en proyectos personales! Yury es un profesional muy dedicado, tiene facilidad de aprender y no es ni un poco resistente en conocer nuevos lenguajes. Siempre estudia nuevas tecnologías y pasa al equipo de forma sencilla, es extremadamente creativo, consigue poner belleza en frontend y backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Grupo Mult | Trabajó conmigo en Brax Sistemas.",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      },
+      {
+        "depoiment": "Trabajamos juntos en una empresa y de allá para allá, no dejamos de trabajar juntos en proyectos personales! Yury es un profesional muy dedicado, tiene facilidad de aprender y no es ni un poco resistente en conocer nuevos lenguajes. Siempre estudia nuevas tecnologías y pasa al equipo de forma sencilla, es extremadamente creativo, consigue poner belleza en frontend y backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Grupo Mult | Trabajó conmigo en Brax Sistemas.",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      },
+      {
+        "depoiment": "Trabajamos juntos en una empresa y de allá para allá, no dejamos de trabajar juntos en proyectos personales! Yury es un profesional muy dedicado, tiene facilidad de aprender y no es ni un poco resistente en conocer nuevos lenguajes. Siempre estudia nuevas tecnologías y pasa al equipo de forma sencilla, es extremadamente creativo, consigue poner belleza en frontend y backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Grupo Mult | Trabajó conmigo en Brax Sistemas.",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      },
+      {
+        "depoiment": "Trabajamos juntos en una empresa y de allá para allá, no dejamos de trabajar juntos en proyectos personales! Yury es un profesional muy dedicado, tiene facilidad de aprender y no es ni un poco resistente en conocer nuevos lenguajes. Siempre estudia nuevas tecnologías y pasa al equipo de forma sencilla, es extremadamente creativo, consigue poner belleza en frontend y backend.",
+        "name": "Maria Tereza",
+        "office": ".Net Developer, Grupo Mult | Trabajó conmigo en Brax Sistemas.",
+        "imgSrc": "mariatereza.jpg",
+        "href": "https://usiminas.com.br"
+      }
+    ],
+    "timeline":[
+      {
+        "title": "El Big Bang",
+        "description": "Mi interés en realidad comenzó en la web cuando conocí los sitios animados de Flash, a mediados de 2004. Antes de eso los sitios eran un poco sosos.",
+        "year": "2004",
+        "imgSrc": "yurybarony-flash.png"
+      },
+      {
+        "title": "Creando diseños",
+        "description": "Poco después, me interesé en Fireworks, que era de la familia Flash, me permitió crear imágenes de manera oportuna y cortarlas en HTML.",
+        "year": "2004",
+        "imgSrc": "yurybarony-fireworks.png"
+      },
+      {
+        "title": "HTML y CSS",
+        "description": "En este momento todavía usábamos muchas etiquetas, era la sensación de los sitios. Esas bellas frases con efectos, hipervínculos y tablas. CSS era poco conocido en ese momento. Gracias al sitio Maujor por los consejos!",
+        "year": "2004",
+        "imgSrc": "yurybarony-htmlcss.png"
+      },
+      {
+        "title": "Amor a primera vista",
+        "description": "Terminé conociendo PHP en ese momento a través de un amigo, donde tomamos un proyecto de un sitio web para desarrollarlo juntos y desde la primera vez que me llamó la atención con sus aplicaciones, requisitos y etc.",
+        "year": "2006",
+        "imgSrc": "yurybarony-php.png"
+      },
+      {
+        "title": "Javascript y sus conflictos",
+        "description": "El javascript en ese momento era un lenguaje ampliamente utilizado para la validación de formularios y dio muchos conflictos, con el surgimiento del lenguaje jQuery dio un giro interesante.",
+        "year": "2006",
+        "imgSrc": "yurybarony-js.png"
+      },
+      {
+        "title": "La revolución de HTML5",
+        "description": "Flash estaba en declive y necesitaba mejorar en otras tecnologías. Luego aproveché el poder de PHP, JS y otros complementos para poder evolucionar en mi aprendizaje.",
+        "year": "2010",
+        "imgSrc": "yurybarony-html5.png"
+      },
+      {
+        "title": "Zend Framework",
+        "description": "Era casi el final de la universidad y allí estaba desplegando Zend, sus herramientas me encantaron y dejaron a PHP poderoso con toda esa abstracción de código.",
+        "year": "2011",
+        "imgSrc": "yurybarony-zend.png"
+      },
+      {
+        "title": "Angular JS",
+        "description": "El Angular JS llegó a optimizar aún más, donde antes tendríamos que usar un código extenso en JS, con el Angular podríamos hacer algo con mucho menos esfuerzo y presentarlo en la vista. ¡Casi como la magia!",
+        "year": "2012",
+        "imgSrc": "yurybarony-angular.png"
+      },
+      {
+        "title": "Control de versiones con SVN",
+        "description": "Antes de trabajar con Git, sabía todo sobre SVN, todo lo que desarrollamos se envió a la producción a través de FTP, y en este momento tuve el placer de saber un poco sobre este controlador de versión. ¡Pero nada se compara con Git!",
+        "year": "2012",
+        "imgSrc": "yurybarony-svn.png"
+      },
+      {
+        "title": "Ruby on Rails",
+        "description": "Tuve la oportunidad de estudiar y conocer un marco de ORM muy interesante que me abrió al concepto de ORM y al deseo de estudiar aún más.",
+        "year": "2016",
+        "imgSrc": "yurybarony-rails.png"
+      },
+      {
+        "title": "Gitlab",
+        "description": "Cuando conocí a Gitlab, me di cuenta de que estaba organizando muchos proyectos (códigos), por no mencionar su canalización, lo que facilitaba las pruebas de unidad y la integración. Hoy, para mis proyectos personales, uso Gitlab, Github y también Heroku.",
+        "year": "2017",
+        "imgSrc": "yurybarony-gitlab.png"
+      },
+      {
+        "title": "Node JS",
+        "description": "Conocí a Node JS por curiosidad cuando me enteré de sus multiprocesos y me desempeño mejor con PHP. Y hoy es mi principal idioma de trabajo.",
+        "year": "2016",
+        "imgSrc": "yurybarony-nodejs.png"
+      },
+      {
+        "title": "Vagrant",
+        "description": "Excelente gestor de máquinas virtuales, utilícelo para administrar mis máquinas virtuales sin tener que abrir la interfaz de Virtualbox.",
+        "year": "2018",
+        "imgSrc": "yurybarony-vagrant.png"
+      },
+      {
+        "title": "Docker",
+        "description": "Docker es algo que también he estado perfeccionando y administrando mis contenedores, es mucho más ligero que una máquina virtual completa y responde a los comandos mucho más rápido, y también proporciona una infraestructura más escalable, fácil de mantener y actualizar.",
+        "year": "2018",
+        "imgSrc": "yurybarony-docker.png"
+      },
+      {
+        "title": "Microservices",
+        "description": "Microservices es un concepto que he estado estudiando recientemente e intentando aplicar en algunos ejemplos, por lo que compartiré más en Github con la comunidad.",
+        "year": "2019",
+        "imgSrc": "yurybarony-microservices.png"
+      },
+      {
+        "title": "Aplicaciones híbridas",
+        "description": "Mi intención ahora es perfeccionar el concepto de aplicaciones híbridas para tener aplicaciones React Native y Electron que funcionen en las plataformas Mobile, Desktop y Web.",
+        "year": "2019",
+        "imgSrc": "yurybarony-reactnative.png"
+      }
+    ],
+    "timeline_section_text": "Una vida y momentos marcados y abaixo enumera los momentos que me marcaron la relación con el concepto de nuevas tecnologías, no solo porque todos se cansan, sino que resumimos y colocamos, por lo que considero más relevante.",
+    "timeline_finish_text": "En el área de TI tenemos que ser mutantes, y siempre buscar nuevos conocimientos que optimicen aún más nuestros procesos y tareas que antes se hacían de forma más trabajosa, por lo que esa timeline nunca dejará de crecer. :)",
+    "timeline_phrase_contact": {
+      "first": "¿Vamos a hablar? Estoy disponible para intercambiar",
+      "second": "experiencias."
+    },
+    "timeline_button_contact": {
+      "text": "Participar en una conversación con Yury",
+      "href": "https://api.whatsapp.com/send?phone=5531987380596"
+    }
+  }
+}

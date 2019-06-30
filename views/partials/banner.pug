@@ -1,0 +1,20 @@
+block banner
+    header#about.header
+        .header-intro.theme-bg-primary.text-white.py-5
+            .container
+                .profile-teaser.media.flex-column.flex-md-row
+                    img.profile-image.mb-3.mb-md-0.mr-md-5.ml-md-0.rounded.mx-auto(src=`../images/${profile.imgSrc}`, alt='')
+                    .media-body.text-center.text-md-left
+                        .lead #{profile.greeting}
+                        h2.mt-0.display-4.font-weight-bold #{profile.firstname} #{profile.lastname}
+                        .bio.mb-3.text-left #{profile.bio}
+                        a.btn-my-cv.theme-btn-on-bg.btn.font-weight-bold.theme-btn-cta(data-toggle='modal',data-src='https://www.youtube.com/embed/fdwl278PSbw',data-target='#ybModal') #{profile.textBtnVideo}
+
+    #ybModal.modal.fade(tabindex='-1', role='dialog', aria-labelledby='ybModal', aria-hidden='true')
+      .modal-dialog(role='document')
+        .modal-content
+          .modal-body
+            button.close(type='button', data-dismiss='modal', aria-label='Close')
+              span(aria-hidden='true') &times;
+            .embed-responsive.embed-responsive-16by9
+              iframe#video.embed-responsive-item(src='', allowscriptaccess='always', allow='autoplay')

@@ -1,0 +1,30 @@
+block footer
+  
+  footer.pt-4.my-md-5.pt-md-5.border-top
+    .row.col-md-10.footer-content
+      .col-12.col-md
+        a(href="/") 
+          img.mb-2(src='../images/logo-yb-black.png', alt='', width='24', height='24')
+        small.d-block.mb-3.text-muted
+          | Build with
+          svg.svg-inline--fa.fa-heart.fa-w-14.fa-fw(aria-hidden='true', focusable='false', data-prefix='fab', data-icon='heart', role='img', xmlns='http://www.w3.org/2000/svg', viewbox='0 0 448 512')
+            path(fill='currentColor', d='M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z') 
+          |  since 2004
+      .col-6.col-md
+        h5 Map
+        ul.list-unstyled.text-small
+          each foot in footer
+            li
+              a.text-muted(href=`${foot.href}`) #{foot.title}
+      .col-6.col-md
+        h5 Ideas
+        ul.list-unstyled.text-small
+          li
+            a.text-muted(href='https://github.com/yurybarony', target='_blank') YULabs
+      .col-6.col-md
+        h5 Politics
+        ul.list-unstyled.text-small
+          li
+            a.text-muted(href='privacy') Privacy
+          li
+            a.text-muted(href='license') License
