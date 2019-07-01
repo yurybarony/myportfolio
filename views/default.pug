@@ -2,6 +2,16 @@ doctype html
 html
   head
     title #{title}
+    meta(name='msapplication-TileImage', content='https://www.ybarony.xyz/images/yurybarony-min.jpg')
+    meta(property='og:site_name', content='`#{title}`')
+    meta(property='og:title', content='`#{title}`')
+    meta(property='og:description', content='This is the portfolio of systems analyst Yury Barony, I would like to talk and exchange experiences on various technologies. Access this link and we will keep contacts.')
+    meta(property='og:image', content='https://www.ybarony.xyz/images/yurybarony-min.jpg')
+    meta(property='og:type', content='website')
+    meta(property='og:image:type', content='image/jpeg')
+    meta(property='og:image:width', content='300')
+    meta(property='og:image:height', content='300')
+    meta(property='og:url', content='https://www.ybarony.xyz')
     link(rel='stylesheet', href='/css/general.css')
     link(rel='stylesheet', href='/css/bootstrap.css')
     link(rel='stylesheet', href='/css/style.css')
@@ -26,4 +36,3 @@ html
     block privacy
     block license
     block footer
-    
