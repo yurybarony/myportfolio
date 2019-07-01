@@ -1,13 +1,9 @@
 const express = require("express");
-const secure = require('express-force-https');
 const repositorie = require("./repositorie.json");
 
 const app = express();
 const lang = 'en';
 const optionsLang = ['pt-br','en','es'];
-
-
-app.use(secure);
 
 app.set("view engine", "pug");
 
